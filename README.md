@@ -31,6 +31,7 @@ The prompt clearly states its main objective and target audience. However, it co
 3.  **Assign a persona:** Instruct the AI to "Act as a gentle children's author" or "Imagine you are a storyteller for young children" to influence the writing style and tone.
 
 **Test Results 4** :
+
 **Input** :  As a python code expert, help me with python problems on basic concepts, so that i can solve those
 **Output** :
 **Clarity:** 8/10
