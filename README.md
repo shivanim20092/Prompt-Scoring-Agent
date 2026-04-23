@@ -1,4 +1,4 @@
-for sample runs# Prompt-Scoring-Agent
+# Prompt-Scoring-Agent
 Code from google colab
 ##Contents
 -Agent logic
